@@ -28,7 +28,54 @@
     
   <https://img.paulzzh.com/touhou/random?size=all>  
       
-下载
+下载  
+<strong> 问题：nuitka 打包出现问题，我经常在这失败。</strong>  
+```
+C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i
+
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i>nuitka main.py
+Nuitka-Options:INFO: Used command line options: main.py
+Nuitka-Options:WARNING: You did not specify to follow or include anything but main
+Nuitka-Options:WARNING: program. Check options and make sure that is intended.
+Nuitka:WARNING: Using very slow fallback for ordered sets, please install 'ordered-set'
+Nuitka:WARNING: PyPI package for best Python compile time performance.
+Nuitka:INFO: Starting Python compilation with Nuitka '1.0.7' on Python '3.10' commercial grade 'not installed'.
+Nuitka:INFO: Completed Python level compilation and optimization.| 1/1, __main__
+Nuitka:INFO: Generating source code for C backend compiler.
+Nuitka:INFO: Running data composer tool for optimal constant value handling.
+Nuitka:INFO: Running C compilation via Scons.
+Nuitka-Scons:INFO: Backend C compiler: gcc (gcc).
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledGeneratorType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\MainProgram.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledCellType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledFunctionType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [__constants.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [__helpers.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [module.__main__.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+Backend C: 88.9%|██████████████████████▏  | 8/9scons: *** [__loader.o] Error 1
+
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i>
+  
+  
+  
+  
+
 <p id="english"><br>
   
 I made it with pyqt5, and it's a game.<br>
@@ -52,3 +99,49 @@ In "save/image" is the downloaded image for display.<br>
 
 
 </p>
+<strong> Problem: There is a problem with nuitka packaging, and I often fail here.</strong>  
+
+<strong> i always fail </strong>  
+
+```
+C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i
+
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i>nuitka main.py
+Nuitka-Options:INFO: Used command line options: main.py
+Nuitka-Options:WARNING: You did not specify to follow or include anything but main
+Nuitka-Options:WARNING: program. Check options and make sure that is intended.
+Nuitka:WARNING: Using very slow fallback for ordered sets, please install 'ordered-set'
+Nuitka:WARNING: PyPI package for best Python compile time performance.
+Nuitka:INFO: Starting Python compilation with Nuitka '1.0.7' on Python '3.10' commercial grade 'not installed'.
+Nuitka:INFO: Completed Python level compilation and optimization.| 1/1, __main__
+Nuitka:INFO: Generating source code for C backend compiler.
+Nuitka:INFO: Running data composer tool for optimal constant value handling.
+Nuitka:INFO: Running C compilation via Scons.
+Nuitka-Scons:INFO: Backend C compiler: gcc (gcc).
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledGeneratorType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\MainProgram.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledCellType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [static_src\CompiledFunctionType.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [__constants.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [__helpers.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+                                               scons: *** [module.__main__.o] Error 1
+gcc.exe: error: CreateProcess: No such file or directory
+
+Backend C: 88.9%|██████████████████████▏  | 8/9scons: *** [__loader.o] Error 1
+
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i>
+```
