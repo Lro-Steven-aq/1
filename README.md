@@ -72,7 +72,7 @@ gcc.exe: error: CreateProcess: No such file or directory
 Backend C: 88.9%|██████████████████████▏  | 8/9scons: *** [__loader.o] Error 1
 
 C:\Users\dell\Desktop\..py\PyQt\Project\c-i>
-  
+```
   
   
   
