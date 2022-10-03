@@ -16,15 +16,15 @@
 <img src="https://github.com/Lro-Steven-aq/1/blob/main/save/image/005BYqpgly1frn98tewvfj31hc0u0doj.jpg.png" width="300" height="200"><img src="https://github.com/Lro-Steven-aq/1/blob/main/save/image/0072Vf1pgy1fodqiavi9zj31kw0uzhdx.jpg.png" width="300" height="200">
 从  
   
-  <https://api.ixiaowai.cn/api/api.php，>   
+  <https://api.ixiaowai.cn/api/api.php>   
     
-  <https://api.mtyqx.cn/tapi/random.php，>  
+  <https://api.mtyqx.cn/tapi/random.php>  
     
-  <https://api.mtyqx.cn/api/random.php，>  
+  <https://api.mtyqx.cn/api/random.php>  
     
-  <https://www.dmoe.cc/random.php，>  
+  <https://www.dmoe.cc/random.php>  
     
-  <https://cdn.seovx.com/d/?mom=302，>  
+  <https://cdn.seovx.com/d/?mom=302>  
     
   <https://img.paulzzh.com/touhou/random?size=all>  
       
