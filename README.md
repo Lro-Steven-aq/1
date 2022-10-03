@@ -1,6 +1,8 @@
 
 - just for fun  
 ### Python with PyQt5
+***Some English Text is translated by me, But my English scores is not very well***  
+
 <a href="#english">Englist Text(translated by <https://cn.bing.com/search?q=google%E7%BF%BB%E8%AF%91&cvid=fa59938cb75f45d5b083539b611bd930&aqs=edge.2.69i57j0l7j69i61.5509j0j1&pglt=171&FORM=ANNTA1&PC=U531>)<br>click it to read the englist text</a>
 
 我使用pyqt5制作了它，也算是一个游戏吧。  
