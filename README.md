@@ -30,7 +30,7 @@
   <https://img.paulzzh.com/touhou/random?size=all>  
       
 下载  
-<strong> 问题：nuitka 打包出现问题，我经常在这失败。</strong>  
+<strong> 问题：nuitka 打包出现问题，我经常在这失败。请求帮助。</strong>  
 ```
 C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i
 
@@ -100,9 +100,7 @@ In "save/image" is the downloaded image for display.<br>
 
 
 </p>
-<strong> Problem: There is a problem with nuitka packaging, and I often fail here.</strong>  
-
-<strong> i always fail </strong>  
+<strong> Problem: There is a problem with nuitka packaging, and I often fail here. i always fail. Please help me.</strong>
 
 ```
 C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i
