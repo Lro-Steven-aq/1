@@ -1,6 +1,10 @@
 
 
-
+def copy(copy_from:str,copy_to:str):
+    copy_from
+    copy_to
+    with (open(copy_from,'rb')as f1, open(copy_to,'wb')as f2):
+        f2.write(f1.read())
 class Run:
     running=10
 if __name__=='__main__' or __name__!='__main__':
@@ -20,7 +24,7 @@ if __name__=='__main__' or __name__!='__main__':
         from random import choice
         # from re import sub
         from ui import Ui_MainWindow
-        from Mod.file import _is_dir_, copy
+        # from Mod.file import _is_dir_, copy
 
         app=QApplication(argv)
         win=QMainWindow()
