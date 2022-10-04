@@ -31,6 +31,7 @@
 下载  
 <strong> 问题：nuitka 打包出现问题，我经常在这失败。请求帮助。</strong>  
 ***安装过程见<a href="#code">这里</a>***
+***如果你想要提供帮助，请发送邮件到<903954856@qq.com>***
  
   
   
@@ -62,43 +63,44 @@ In "save/image" is the downloaded image for display.<br>
 
 <code id="code">  
 <h3 id="code">nuitka</h3>
-C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i<br>
-C:\Users\dell\Desktop\..py\PyQt\Project\c-i>nuitka main.py<br>
-Nuitka-Options:INFO: Used command line options: main.py<br>
-Nuitka-Options:WARNING: You did not specify to follow or include anything but main<br>
-Nuitka-Options:WARNING: program. Check options and make sure that is intended.<br>
-Nuitka:WARNING: Using very slow fallback for ordered sets, please install 'ordered-set'<br>
+C:\Users\dell>cd C:\Users\dell\Desktop\..py\PyQt\Project\c-i<hr>
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i>nuitka main.py<hr>
+Nuitka-Options:INFO: Used command line options: main.py<hr>
+Nuitka-Options:WARNING: You did not specify to follow or include anything but main<hr>
+Nuitka-Options:WARNING: program. Check options and make sure that is intended.<hr>
+Nuitka:WARNING: Using very slow fallback for ordered sets, please install 'ordered-set'<hr>
 Nuitka:WARNING: PyPI package for best Python compile time performance.<br>
-Nuitka:INFO: Starting Python compilation with Nuitka '1.0.7' on Python '3.10' commercial grade 'not installed'.<br>
-Nuitka:INFO: Completed Python level compilation and optimization.| 1/1, __main__<br>
-Nuitka:INFO: Generating source code for C backend compiler.<br>v
-Nuitka:INFO: Running data composer tool for optimal constant value handling.<br>
-Nuitka:INFO: Running C compilation via Scons.<br>
-Nuitka-Scons:INFO: Backend C compiler: gcc (gcc).<br>
-gcc.exe: error: CreateProcess: No such file or directory<br>
-<br>
-                                               scons: *** [static_src\CompiledGeneratorType.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+Nuitka:INFO: Starting Python compilation with Nuitka '1.0.7' on Python '3.10' commercial grade 'not installed'.<hr>
+Nuitka:INFO: Completed Python level compilation and optimization.| 1/1, __main__<hr>
+Nuitka:INFO: Generating source code for C backend compiler.<hr>
+Nuitka:INFO: Running data composer tool for optimal constant value handling.<hr>
+Nuitka:INFO: Running C compilation via Scons.<hr>
+Nuitka-Scons:INFO: Backend C compiler: gcc (gcc).<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [static_src\MainProgram.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [static_src\CompiledGeneratorType.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [static_src\CompiledCellType.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [static_src\MainProgram.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [static_src\CompiledFunctionType.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [static_src\CompiledCellType.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [__constants.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [static_src\CompiledFunctionType.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [__helpers.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [__constants.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-                                               scons: *** [module.__main__.o] Error 1<br>
-gcc.exe: error: CreateProcess: No such file or directory<br><br>
+                                               scons: *** [__helpers.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-Backend C: 88.9%|██████████████████████▏  | 8/9scons: *** [__loader.o] Error 1<br><br>
+                                               scons: *** [module.__main__.o] Error 1<hr>
+gcc.exe: error: CreateProcess: No such file or directory<hr>
 
-C:\Users\dell\Desktop\..py\PyQt\Project\c-i><br>
+Backend C: 88.9%|██████████████████████▏  | 8/9scons: *** [__loader.o] Error 1<hr>
+
+C:\Users\dell\Desktop\..py\PyQt\Project\c-i><hr>
 </code>
+***If you would like to help, please send an email to <903954856@qq.com>***
