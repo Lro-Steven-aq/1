@@ -1,5 +1,8 @@
 
-
+import os
+def _is_dir_(dir):
+    if not os.path.isdir(dir):
+        os.makedirs(dir)
 def copy(copy_from:str,copy_to:str):
     copy_from
     copy_to
