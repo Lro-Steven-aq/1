@@ -26,3 +26,7 @@
   <https://img.paulzzh.com/touhou/random?size=all>  
       
 下载  
+  
+    
+      
+使用：从[这里](//github.com/Lro-Steven-aq/C-I/relaese)下载运行。
