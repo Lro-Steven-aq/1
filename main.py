@@ -14,7 +14,7 @@ if __name__=='__main__' or __name__!='__main__':
         from sys import path
         path.append('C:/Users/dell/desktop')
         path.append('./')
-        from zi_yuan import *
+        #from zi_yuan import *
         
         # from PyQt5.QtCore import ...
         from PyQt5.QtWidgets import QApplication, QMainWindow#, QStyle
